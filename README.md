@@ -8,7 +8,7 @@ This repository contains information about Bioinformatics Activity 06: schooling
 
 Handed out: 4 November 2022
 
-Due: 11 November 2022
+Due: 4 November 2022
 
 ![logo](graphics/orf.png)
 
