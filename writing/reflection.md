@@ -109,4 +109,6 @@ TODO
 TODO
 ```
 
+Note: There are other files in the `data/` and you are invited to apply your analysis to them for practice.
+
 (Did you remember to add your names to the top of this document?)
